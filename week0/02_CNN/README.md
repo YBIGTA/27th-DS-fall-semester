@@ -26,6 +26,3 @@
 
 ---
 
-## 참고 링크
-- 실습 노트북(노션):  
-  https://www.notion.so/signed/attachment%3A9f4ee858-03a1-4112-9f64-2a326f737c3f%3ABasic_CNN_00%EA%B8%B0_000.ipynb?table=block&id=26283604-23c9-80f8-8fcb-e282169db40c&spaceId=a9b3d717-d55e-404a-8981-ff2667b446d3&userId=128efa62-1d61-404d-8aeb-b99d553441bb&cache=v2
